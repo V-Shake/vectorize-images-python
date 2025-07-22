@@ -8,7 +8,6 @@ Convert raster images into stylized, vector-like artwork using machine learning 
 |----------|------------|
 | <img src="examples/room-original.png" width="400"> | <img src="examples/room-vectorized.png" width="400"> |ith Python
 
-Convert raster images into stylized, vector-like artwork using machine learning techniques.
 *The example room images used in this repository were created by me using 3D modeling in Blender for this project.*
 
 ## 🎓 Project Background
