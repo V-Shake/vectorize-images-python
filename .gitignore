@@ -140,4 +140,10 @@ temp/
 *.tif
 !examples/**/*.png
 !examples/**/*.jpg
+!examples_image_sequence/room-animation/0080.png
+!examples_image_sequence/room-animation/0090.png  
+!examples_image_sequence/room-animation/0100.png
+!examples_image_sequence/stylized_output/stylized_0080.png
+!examples_image_sequence/stylized_output/stylized_0090.png
+!examples_image_sequence/stylized_output/stylized_0100.png
 !examples/README.md
