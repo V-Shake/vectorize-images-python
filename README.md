@@ -1,10 +1,15 @@
-# Image Vectorizat## 🖼️ Before & After Examples
+# Image Vectorization with Python
+
+Convert raster images into stylized, vector-like artwork using machine learning techniques.
+
+## 🖼️ Before & After Examples
 
 | Original | Vectorized |
 |----------|------------|
 | <img src="examples/room-original.png" width="400"> | <img src="examples/room-vectorized.png" width="400"> |ith Python
 
 Convert raster images into stylized, vector-like artwork using machine learning techniques.
+*The example room images used in this repository were created by me using 3D modeling in Blender for this project.*
 
 ## 🎓 Project Background
 
@@ -19,12 +24,6 @@ Developed for **Application Design 2** course (4th semester Interaction Design) 
 - **🎬 Sequence Processing** for consistent animation colors
 - **📝 Edge Detection** for manga/anime style outlines
 - **⚙️ Easy Configuration** - just edit settings at top of files
-
-## �️ Before & After Examples
-
-| Original | Vectorized |
-|----------|------------|
-| ![Original](examples/room-original.png) | ![Vectorized](examples/room-vectorized.png) |
 
 ### 🎨 Style Gallery
 
