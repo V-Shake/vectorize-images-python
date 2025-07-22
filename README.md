@@ -1,4 +1,8 @@
-# Image Vectorization with Python
+# Image Vectorizat## 🖼️ Before & After Examples
+
+| Original | Vectorized |
+|----------|------------|
+| <img src="examples/room-original.png" width="400"> | <img src="examples/room-vectorized.png" width="400"> |ith Python
 
 Convert raster images into stylized, vector-like artwork using machine learning techniques.
 
